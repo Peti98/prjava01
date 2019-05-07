@@ -19,7 +19,7 @@ public static void main(String[] args) throws IOException {
     bw.newLine(); 
     bw.write("  <head>");bw.newLine(); bw.write("    <title>");bw.newLine();
     bw.write("      Nova p&agrave;gina  web");bw.newLine();
-bw.write("    </title>");bw.newLine(); bw.write("  </head>");bw.newLine(); bw.write("  <body>");bw.newLine();
+bw.write("    </title>");bw.newLine(); bw.write("  </head>");bw.newLine(); bw.write("  <body>");bw.write("    <h1>DAW2 m08uf4pr2</h1>");bw.newLine();bw.newLine();
 bw.write("    Nova p&agrave;gina web");bw.newLine(); bw.write("  </body>");bw.newLine(); bw.write("</html>");bw.newLine();
 bw.close();
 }
